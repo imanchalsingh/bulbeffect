@@ -13,6 +13,7 @@ const Bulbeffect: React.FC = () => {
       "https://tse1.mm.bing.net/th?id=OIP.Z-TTWRFovI3pjbnM5t7TYQHaMn&pid=Api&P=0&h=180"
     );
   };
+  
   return (
     <div>
       <h2>What Can JavaScript Do?</h2>
