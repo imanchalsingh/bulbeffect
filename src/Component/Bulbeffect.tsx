@@ -4,7 +4,6 @@ const Bulbeffect: React.FC = () => {
   const [imageSrc, setImageSrc] = useState<string>(
     "https://tse1.mm.bing.net/th?id=OIP.Z-TTWRFovI3pjbnM5t7TYQHaMn&pid=Api&P=0&h=180"
   );
-
   const turnOnLight = () => {
     setImageSrc(
       "http://www.pngall.com/wp-content/uploads/2016/03/Light-Bulb-PNG-File.png"
