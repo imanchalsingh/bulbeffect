@@ -33,5 +33,4 @@ const Bulbeffect: React.FC = () => {
     </div>
   );
 };
-
 export default Bulbeffect;
