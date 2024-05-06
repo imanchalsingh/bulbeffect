@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-
 const Bulbeffect: React.FC = () => {
   const [imageSrc, setImageSrc] = useState<string>(
     "https://tse1.mm.bing.net/th?id=OIP.Z-TTWRFovI3pjbnM5t7TYQHaMn&pid=Api&P=0&h=180"
